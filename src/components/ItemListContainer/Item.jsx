@@ -13,7 +13,7 @@ const Item = ({products}) => {
                     <CardBody>
                         <Image
                         src={products.image}
-                        alt='Green double couch with wooden legs'
+                        alt=''
                         borderRadius='lg'
                         />
                         <Stack mt='6' spacing='3'>

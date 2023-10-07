@@ -17,6 +17,4 @@ En esta página podrás encontrar un ejemplo de un eCommerce, que se basa en la 
 
 ##### Ejemplo
 
-<p align="center">
-<img alt="EverShop" width="950" src="./src/assets/gif-pagina.gif"/>
-</p>
+<img alt="EverShop" width="950" src="./src/assets/gif-pagina-2.gif"/>
